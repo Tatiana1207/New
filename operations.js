@@ -1,4 +1,4 @@
-console.log("Starting script...");
+// operations.js
 
 // Сложение различных типов
 const stringBooleanAddition = "hello" + true;
@@ -36,5 +36,4 @@ console.log("Number conversion:", numberConversion);
 console.log("String conversion:", stringConversion);
 console.log("Boolean conversion:", booleanConversion);
 
-console.log("Script execution finished.");
 
